@@ -1,0 +1,158 @@
+.logo-docplanner  {
+    width: 268px;
+    height: 33px;
+}
+
+.sygnet {
+    text-align: center;
+    height: 30px;
+}
+.stagiaire{
+    text-align: center;
+}
+ul{
+    display: flex;
+    justify-content: flex-end; 
+}
+ul li{
+    margin-right: 50px;
+    margin-top: -25px;
+    list-style-type: none;
+}
+.para{
+    display: flex;
+    margin-left: 150px;
+    margin-right:  150px;
+    color: rgb#747474
+}
+
+.beta{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    height: 340px;
+    background-color: rgb(64, 240, 202);
+    margin-left: 30px;
+
+}
+
+.alpha{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    height: 340px;
+    background-color: rgb(3, 118, 250);
+    margin-left: 30px;
+}
+.omega{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    height: 340px;
+    background-color: rgb(2, 10, 54);
+    margin-left: 30px;
+}
+.sec2{
+    display: flex;
+}
+
+h1 {
+    color: #00b39b;
+
+
+}
+
+
+
+.olymp {
+    display: flex;
+    width: 30%;
+    height: 200px;
+    color:#00b39b
+}
+
+.venom {
+   
+    height: 10000px;
+color:white
+
+}
+
+.tatante {
+    
+    height: 10000px;
+    color:white
+    
+    }
+
+.tondad {
+      
+    height: 10000px;
+    color:white;
+        
+}
+        
+
+.brabus {
+ display: flex;
+ margin-right:  110px;
+ color: #b6b3b3
+            
+}
+.sec{
+    display: flex;
+    justify-content: space-around;   }
+#i1{
+    width: 20px;
+    height: 20px;
+}
+#i2,#i3{
+    width: 20px;
+    height: 20px;
+}
+
+.DD {
+    margin-right: 1100px;
+}
+
+
+.UTR {
+    display: flex;
+    flex-direction: column;
+    width: 5%;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1000px;
+
+}
+
+.dtf {
+    display: flex;
+    flex-direction: column;
+    width: 5%;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1200px;
+}
+.Rome{
+
+    margin-right: 500px;
+
+}
+.Rome p{
+    margin-right: 500px;
+}
+
+.javelo{
+    display: flex;
+    justify-content: space-around;   }
+
+.pointe{
+
+    display: flex;
+    justify-content: space-around;
+} 
+
+.sec2 {
+    margin-left: 200px
+}
